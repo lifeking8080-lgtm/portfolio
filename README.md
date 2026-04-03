@@ -30,7 +30,7 @@ I enjoy solving real-world problems through innovative ideas and practical proje
 ---
 
 ## 🚀 Live Website
-👉 https://your-username.github.io/portfolio/
+👉 https://lifeking8080-lgtm.github.io/portfolio/
 
 ---
 
